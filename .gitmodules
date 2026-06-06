@@ -1,0 +1,6 @@
+[submodule "animal-catalog-back"]
+	path = animal-catalog-back
+	url = https://github.com/plucins/animal-catalog-back
+[submodule "animal-catalog-front"]
+	path = animal-catalog-front
+	url = https://github.com/plucins/animal-catalog-front
